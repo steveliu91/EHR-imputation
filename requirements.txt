@@ -1,5 +1,6 @@
 numpy
 scipy
 pytorch
-pypots
+pypots==0.1.1
 tsdb
+pycorruptor
